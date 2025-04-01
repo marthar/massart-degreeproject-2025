@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/massart-degreeproject-2025/static/css/main.df293898.chunk.css",
+    "main.css": "/massart-degreeproject-2025/static/css/main.14e8ae0a.chunk.css",
     "main.js": "/massart-degreeproject-2025/static/js/main.a9a4f9b2.chunk.js",
     "main.js.map": "/massart-degreeproject-2025/static/js/main.a9a4f9b2.chunk.js.map",
     "runtime-main.js": "/massart-degreeproject-2025/static/js/runtime-main.7df8d5ac.js",
@@ -8,15 +8,15 @@
     "static/js/2.f93bdbdf.chunk.js": "/massart-degreeproject-2025/static/js/2.f93bdbdf.chunk.js",
     "static/js/2.f93bdbdf.chunk.js.map": "/massart-degreeproject-2025/static/js/2.f93bdbdf.chunk.js.map",
     "index.html": "/massart-degreeproject-2025/index.html",
-    "precache-manifest.d52f925e0869090e352435d78b0f3657.js": "/massart-degreeproject-2025/precache-manifest.d52f925e0869090e352435d78b0f3657.js",
+    "precache-manifest.2012721f2f9f806b6fdb36d3b7a72ab5.js": "/massart-degreeproject-2025/precache-manifest.2012721f2f9f806b6fdb36d3b7a72ab5.js",
     "service-worker.js": "/massart-degreeproject-2025/service-worker.js",
-    "static/css/main.df293898.chunk.css.map": "/massart-degreeproject-2025/static/css/main.df293898.chunk.css.map",
+    "static/css/main.14e8ae0a.chunk.css.map": "/massart-degreeproject-2025/static/css/main.14e8ae0a.chunk.css.map",
     "static/js/2.f93bdbdf.chunk.js.LICENSE.txt": "/massart-degreeproject-2025/static/js/2.f93bdbdf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7df8d5ac.js",
     "static/js/2.f93bdbdf.chunk.js",
-    "static/css/main.df293898.chunk.css",
+    "static/css/main.14e8ae0a.chunk.css",
     "static/js/main.a9a4f9b2.chunk.js"
   ]
 }
